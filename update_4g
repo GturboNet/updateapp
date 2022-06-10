@@ -1,10 +1,10 @@
 {
   "Version": "1.0.0",
   "ReleaseNotes": "Nova Atualização Disponível",
-  "UrlUpdate": "https://bitbin.it/0sROAzUz/raw/",
+  "UrlUpdate": "https://raw.githubusercontent.com/GturboNet/updateapp/main/update_4g",
   "Sms": "https://bitbin.it/oKgMpLx1/raw/",
   "EmailFeedback": "cloudzinmaker@gmail.com",
-  "UrlContato": "https://t.me/satancloud",
+  "UrlContato": "Contato",
   "UrlTermos": "Link de termos",
   "CheckUser": "true",
   "Udp": [
